@@ -1,6 +1,5 @@
 More Github Fun (This is a title)
 ---
-=======
 :)
 
 this is paragraph text...
