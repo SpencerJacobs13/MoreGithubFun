@@ -1,5 +1,7 @@
 More Github Fun (This is a title)
 ---
+:)
+
 this is paragraph text...
 
 ##this is an edited change.  
