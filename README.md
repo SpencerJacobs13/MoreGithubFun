@@ -1,6 +1,9 @@
 More Github Fun (This is a title)
 ---
-XD
+=======
+:)
+
+this is paragraph text...
 
 ##this is an edited change.  
 ###new header! yee hoo.  
